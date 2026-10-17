@@ -1,0 +1,6 @@
+{
+  "name": "BITE'S - Stroberi Segar Pilihan Salatiga",
+  "description": "Website resmi BITE'S / BiteBites: Stroberi segar berkualitas, lokasi outlet di Salatiga, katalog produk, dan pemesanan praktis via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
